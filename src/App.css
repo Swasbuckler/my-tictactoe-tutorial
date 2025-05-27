@@ -1,0 +1,55 @@
+.app-container {
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+}
+
+.game-container {
+  display: flex;
+}
+
+.status-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+
+.status-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.board-container {
+  padding: 20px;
+}
+
+.board-row {
+  display: flex;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  background: white;
+  border: 1px solid black;
+}
+
+.game-info {
+  margin: 10px;
+}
+
+.info-container {
+  display: flex;
+  gap: 10px;
+}
+
+.info-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
