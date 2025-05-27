@@ -19,9 +19,10 @@ I wish to work on more complex React projects with React frameworks to further m
 
 ## Screenshots of the Completed Application
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); text-align: center; align-items: center; ">
-  <h3>Start of Game</h3>
-  <h3>End of Game</h3>
-  <img src="git_images/Game_Start.png" />
-  <img src="git_images/Game_End.png" />
-</div>
+### Start of Game
+
+<img src="git_images/Game_Start.png" height="400px" />
+
+### End of Game
+
+<img src="git_images/Game_End.png" height="400px" />
