@@ -3,7 +3,7 @@
 The tutorial used for this project can be accessed through React's [Official Website](https://react.dev).\
 Specifically the [Tic Tac Toe Tutorial](https://react.dev/learn/tutorial-tic-tac-toe) found under the Get Started section of the website.
 
-The application is hosted on GitHub Pages and can be accessed here: https://swasbuckler.github.io/my-tictactoe-tutorial/.
+The application is hosted on GitHub Pages and can be accessed here: https://swasbuckler.github.io/my-tictactoe-tutorial.
 
 ## What have I Achieved and Learnt through this Project
 
